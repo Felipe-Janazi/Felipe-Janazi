@@ -65,8 +65,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-origina
 
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="Ansible" 
+    title="Ansible"
     width="30px" 
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg"
