@@ -166,7 +166,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices
           
 <br/>
 <br/>
-<br/>
 
 ### 📊 Estatísticas
 
