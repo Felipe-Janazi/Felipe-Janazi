@@ -69,20 +69,20 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-origina
 
 <img 
     align="left" 
-    alt="Ansible" 
-    title="Ansible"
-    width="30px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg"
-/>
-
-<img 
-    align="left" 
     alt="Terraform" 
     title="Terraform"
     width="30px" 
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Ansible" 
+    title="Ansible"
+    width="30px" 
+    style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg"
 />
 
 <img 
