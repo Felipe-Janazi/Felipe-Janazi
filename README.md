@@ -7,7 +7,7 @@ Me chamo Felipe Janazi tenho 19 anos e sou natural de São Paulo. Atualmente, es
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 
 <img 
     align="left" 
@@ -63,6 +63,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-ori
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
 />
 
+### 🔬 Provisionamento e Observabilidade 
+
 <img 
     align="left" 
     alt="Ansible" 
@@ -79,6 +81,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-o
     width="30px" 
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 
 <img 
@@ -101,24 +112,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-o
 
 <img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
-
-<img 
-    align="left" 
     alt="Insomnia" 
     title="Insomnia"
     width="30px" 
@@ -135,6 +128,28 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
 
+
+### 🏦 Banco de Dados
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+
+### ☁️ Serviços de Nuvem
 <img 
     align="left" 
     alt="AWS" 
