@@ -63,6 +63,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-ori
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
 />
 
+<br/>
+<br/>
+
 ### 🔬 Provisionamento e Observabilidade 
 
 <img 
@@ -128,6 +131,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
 
+<br/>
+<br/>
 
 ### 🏦 Banco de Dados
 
@@ -148,6 +153,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
+
+<br/>
+<br/>
 
 ### ☁️ Serviços de Nuvem
 <img 
