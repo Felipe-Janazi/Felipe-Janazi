@@ -64,7 +64,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-origina
 />
 
 <br/>
-<br/>
 
 ### 🔬 Provisionamento e Observabilidade 
 
@@ -132,7 +131,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-o
 />
 
 <br/>
-<br/>
 
 ### 🏦 Banco de Dados
 
@@ -154,7 +152,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 
-<br/>
 <br/>
 
 ### ☁️ Serviços de Nuvem
