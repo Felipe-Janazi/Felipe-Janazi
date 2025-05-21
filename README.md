@@ -112,24 +112,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/promet
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"
 />
 
-<img 
-    align="left" 
-    alt="Insomnia" 
-    title="Insomnia"
-    width="30px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="30px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-/>
-
 <br/>
 
 ### 🏦 Banco de Dados
