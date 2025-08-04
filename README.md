@@ -2,7 +2,7 @@
 
 **`DEVOPS / SRE`**
 
-Me chamo Felipe Janazi tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na SPTECH (3/5).
+Me chamo Felipe Janazi tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na SPTECH (4/5).
 
 
 ---
